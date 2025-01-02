@@ -7,7 +7,7 @@ import time
 from main import obtener_informacion_ticket
 
 
-def load_config(filename='uenocore_config.json'):
+def load_config(filename='DB_config.json'):
     """
     Carga la configuración de la base de datos desde un archivo JSON.
     """
