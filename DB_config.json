@@ -1,8 +1,8 @@
 {
     "db_config": {
-      "dsn": "dbcore.elcomercio.local:1521/fielprod",
-      "username": "edoldan",
-      "password": "Anysky122024*"
+      "dsn": "db dns",
+      "username": "username",
+      "password": "password"
     }
   }
 
