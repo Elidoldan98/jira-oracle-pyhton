@@ -5,10 +5,12 @@ Esta herramienta utiliza librerias de pyhton como JIRA, Cx_ORACLE, PANDAS, para 
 
 La funcion CORE es 
 
-1 Utilizar la API de JIRA para verificar el TICKET en cuestión, que nos da la descripcion del mismo con el query SQL 
-2 Verificar el texto con pyhton para buscar sentencias SQL.
-3 Ejecutar esas sentencias en la DB en cuestion.
-4 Comentar, cambiar estado y adjuntar BK en excell si habia que hacerlas como consultas en el ticket. 
+1 ) Utilizar la API de JIRA para verificar el TICKET en cuestión, que nos da la descripcion del mismo con el query SQL </br> 
+2 ) Verificar el texto con pyhton para buscar sentencias SQL. </br> 
+3 ) Ejecutar esas sentencias en la DB en cuestion. </br> 
+4 ) Comentar, cambiar estado y adjuntar BK en excell si habia que hacerlas como consultas en el ticket. </br>  
+
+
 
 
 
