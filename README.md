@@ -67,7 +67,7 @@ Las consultas `SELECT` se guardan automáticamente en un archivo Excel y se adju
   <img src="https://github.com/user-attachments/assets/28ef865e-c5e2-4adb-bf1a-2c4c4c8fa772" alt="Backup generado" width="70%">  
 </p>  
 
-### **5. Ejecución completa con queries de modificación**  
+### **5. Ejecución completa con queries de modificación con `SELECT` `INSERT` `UPDATE` `DELETE`**  
 Ingresamos el ticket y el programa ejecuta las sentencias SQL correctamente:  
 <p align="center">  
   <img src="https://github.com/user-attachments/assets/845ca0d7-05ac-48db-9cc0-7458bf4bf403" alt="Ingreso del ticket" width="70%">  
