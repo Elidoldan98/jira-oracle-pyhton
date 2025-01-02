@@ -1,4 +1,5 @@
-# **Jira-Oracle-Python**  
+![pyhton](https://github.com/user-attachments/assets/a102967a-27ea-4f5e-8eff-f8752c07150e) 
+# **Jira-SQL-Python** 
 Automatización de la ejecución de tickets en JIRA, bases de datos Oracle y generación de backups en Excel, todo implementado con Python.
 
 ---
