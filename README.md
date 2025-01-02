@@ -60,7 +60,8 @@ En caso de error (por ejemplo, tabla inexistente), el flujo de trabajo continúa
 #### **4. Generación de backups**  
 Las consultas `SELECT` se guardan automáticamente en un archivo Excel y se adjuntan al ticket como respaldo:  
 ![Backup generado](https://github.com/user-attachments/assets/28ef865e-c5e2-4adb-bf1a-2c4c4c8fa772)  
-![Backup adjuntado](https://github.com/user-attachments/assets/4e2e73a3-92ca-460f-9d3f-1eaf4246ef05)  
+![foto1](https://github.com/user-attachments/assets/767d0b32-90c7-42ae-8fe7-21656d5c960b)
+
 
 ---
 
